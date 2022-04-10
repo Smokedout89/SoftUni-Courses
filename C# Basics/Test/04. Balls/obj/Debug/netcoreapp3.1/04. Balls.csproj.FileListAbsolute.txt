@@ -1,0 +1,14 @@
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.exe
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.deps.json
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.json
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.runtimeconfig.dev.json
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.dll
+C:\Users\Smokedout\Source\repos\Training\04. Balls\bin\Debug\netcoreapp3.1\04. Balls.pdb
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csproj.AssemblyReference.cache
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfoInputs.cache
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.AssemblyInfo.cs
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.csproj.CoreCompileInputs.cache
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.dll
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.pdb
+C:\Users\Smokedout\Source\repos\Training\04. Balls\obj\Debug\netcoreapp3.1\04. Balls.genruntimeconfig.cache

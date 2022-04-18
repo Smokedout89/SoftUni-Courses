@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaOfFigures", "CSharp Basics\AreaOfFigures.csproj", "{8FD6642B-5EB3-45AB-B790-313D7C032602}"
 EndProject
@@ -20,8 +20,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping", "Shopping\Shopping.csproj", "{27E50983-C79B-4276-965B-1924486EE60B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lunch Break", "Lunch Break\Lunch Break.csproj", "{D733E340-BFA8-40AF-A2EC-62A93F3DD969}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepinItUp", "KeepinItUp\KeepinItUp.csproj", "{76CCEACA-AB36-40F9-A705-44FBD7D4E8B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +63,6 @@ Global
 		{D733E340-BFA8-40AF-A2EC-62A93F3DD969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D733E340-BFA8-40AF-A2EC-62A93F3DD969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D733E340-BFA8-40AF-A2EC-62A93F3DD969}.Release|Any CPU.Build.0 = Release|Any CPU
-		{76CCEACA-AB36-40F9-A705-44FBD7D4E8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76CCEACA-AB36-40F9-A705-44FBD7D4E8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76CCEACA-AB36-40F9-A705-44FBD7D4E8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76CCEACA-AB36-40F9-A705-44FBD7D4E8B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

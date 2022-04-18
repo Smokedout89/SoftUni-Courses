@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique PIN Codes", "ConsoleApp1\01. Unique PIN Codes.csproj", "{EF2C607D-D9B5-48B8-A33A-F77878F15B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique PIN Codes", "01. Unique PIN Codes\01. Unique PIN Codes.csproj", "{EF2C607D-D9B5-48B8-A33A-F77878F15B5E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Letters Combinations", "02. Letters Combinations\02. Letters Combinations.csproj", "{B7189FF6-4C7D-4195-B77F-C3B54CB4C112}"
 EndProject

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Read Text", "readText\01. Read Text.csproj", "{8B61989F-6E95-45F4-ABF2-B6D5AC4D0AF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Read Text", "01. Read Text\01. Read Text.csproj", "{8B61989F-6E95-45F4-ABF2-B6D5AC4D0AF7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Password", "02. Password\02. Password.csproj", "{A8D509C0-F36A-40AB-B68F-FA660D1F0587}"
 EndProject

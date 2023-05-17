@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Reverse Array", "01. Reverse Array\01. Reverse Array.csproj", "{934B9779-D7B7-4014-A795-E122ECDCA209}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Nested Loops To Recursion", "02. Nested Loops To Recursion\02. Nested Loops To Recursion.csproj", "{F036C792-E2D5-4E8F-B807-0A2971CADE8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Connected Areas in a Matrix", "03. Connected Areas in a Matrix\03. Connected Areas in a Matrix.csproj", "{55F26E3F-28F2-4D98-8566-13EF86544D91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Cinema", "04. Cinema\04. Cinema.csproj", "{F3A32D0E-7847-4958-878A-24EFEFF81D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. School Teams", "05. School Teams\05. School Teams.csproj", "{E9FE6398-EF2A-4ACA-BB26-249135731A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Word Cruncher", "06. Word Cruncher\06. Word Cruncher.csproj", "{A9239747-E912-47FC-8F4F-80401F08AE4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934B9779-D7B7-4014-A795-E122ECDCA209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934B9779-D7B7-4014-A795-E122ECDCA209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934B9779-D7B7-4014-A795-E122ECDCA209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934B9779-D7B7-4014-A795-E122ECDCA209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F036C792-E2D5-4E8F-B807-0A2971CADE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F036C792-E2D5-4E8F-B807-0A2971CADE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F036C792-E2D5-4E8F-B807-0A2971CADE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F036C792-E2D5-4E8F-B807-0A2971CADE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F26E3F-28F2-4D98-8566-13EF86544D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F26E3F-28F2-4D98-8566-13EF86544D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F26E3F-28F2-4D98-8566-13EF86544D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F26E3F-28F2-4D98-8566-13EF86544D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A32D0E-7847-4958-878A-24EFEFF81D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A32D0E-7847-4958-878A-24EFEFF81D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A32D0E-7847-4958-878A-24EFEFF81D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A32D0E-7847-4958-878A-24EFEFF81D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9FE6398-EF2A-4ACA-BB26-249135731A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FE6398-EF2A-4ACA-BB26-249135731A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FE6398-EF2A-4ACA-BB26-249135731A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FE6398-EF2A-4ACA-BB26-249135731A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9239747-E912-47FC-8F4F-80401F08AE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9239747-E912-47FC-8F4F-80401F08AE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9239747-E912-47FC-8F4F-80401F08AE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9239747-E912-47FC-8F4F-80401F08AE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B30C740-117B-44DE-B197-A0DA8E806088}
+	EndGlobalSection
+EndGlobal
